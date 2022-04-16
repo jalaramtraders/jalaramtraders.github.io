@@ -16,7 +16,7 @@ const Commom = (props) => {
                     <strong className='brand-name'> Jalaram Traders </strong>
                   </h1>
                   <h2 className='my-3'>
-                    We are the team of talented developer making websites
+                    We deal in Ferrous & Non Ferrous Metals
                   </h2>
                   <div className='mt-3'>
                     <NavLink to={props.visit} className='btn-get-started '>
